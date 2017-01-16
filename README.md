@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I am Alex and I'm a computer science major at Belmont University. 
